@@ -61,6 +61,8 @@ Here is a more measurable, accurate and precise problem statement:
 > Approximately 15,000 residents living near clogged drainage systems are most affected, experiencing frequent flooding,
 > environmental degradation and increased risk of wateborne diseases.
 
-
+---
+## What Next ?
 ---
 
+[➡️ Next: Approaches to Solving the Problem](02_problem_solving_approaches.md)
