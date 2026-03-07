@@ -25,7 +25,7 @@ This project therefore focuses on **problem exploration and analysis** rather th
 
 This project investigates the following real-world issue:
 
-**<Insert a short description of the real-world problem here>**
+**<Insert Urban areas in Kenya, especially Nairobi and Mombasa, face severe plastic and solid waste pollution. Streets and rivers are clogged, leading to flooding, environmental degradation, and public health risks. >**
 
 The analysis focuses on understanding the problem within its real-life context, identifying the key factors that contribute to it, and examining possible approaches to addressing it.
 
