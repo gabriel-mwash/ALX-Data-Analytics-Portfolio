@@ -38,12 +38,12 @@ To clarify the problem, the project uses structured questioning methods such as 
 The analysis seeks to answer questions such as:
 
 * What exactly is the problem?
-* Why is the problem important?
+* Why is it a problem?
+* Where does the problem occur or present itself?
 * Who is affected by the problem?
-* Where does the problem occur?
 * When does the problem occur?
 * How does the problem manifest?
-* How significant is the impact of the problem?
+* How much of a problem is it?
 
 ---
 
@@ -53,20 +53,18 @@ To better understand the problem, the project applies the following approaches:
 
 ### 1. Design Thinking
 
-A human-centered approach used to explore the problem from the perspective of those affected.
-This includes stages such as empathizing with stakeholders, defining the problem, and exploring potential ideas.
+A human centered approach and collaborative process to realize new solutions to ill structured and complex problems.
 
 ### 2. Pragmatic Thinking
 
-A logical and structured approach used to break down the problem into manageable components.
-This may involve conceptual models such as data flow representation and step-by-step logical reasoning.
+is a logical and structured approach that involves breaking down problems or tasks into smaller parts, and solving or addressing each part in a logical and structural manner.
 
 ---
 
 ## Project Structure
 
 ```
-project-folder/
+Problem_solving/
 
 README.md
 
